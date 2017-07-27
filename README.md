@@ -9,6 +9,7 @@
   * [linux maven poc的automyte poc打包脚本](https://github.com/yueheng-li/linuxLearn/wiki/linux-maven-poc%E7%9A%84automyte-poc%E8%84%9A%E6%9C%AC)
   * [linux 下spring boot的启动shell](https://github.com/yueheng-li/linuxLearn/wiki/linux-%E4%B8%8Bspring-boot%E7%9A%84%E5%90%AF%E5%8A%A8shell)
   * [linux 虚拟机启动java jar异常对应](https://github.com/yueheng-li/linuxLearn/wiki/linux-%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%90%AF%E5%8A%A8java--jar%E5%BC%82%E5%B8%B8%E5%AF%B9%E5%BA%94)
+  * [linux docker install(Centos6.5)](https://github.com/yueheng-li/learn/wiki/linux-docker-install(Centos6.5))
 
 # pythonLearn
 * python
