@@ -2,7 +2,6 @@
 * Linux
   * [linux 虚拟机安装(vagrant+virtualbox的安装)](https://github.com/yueheng-li/pythonLearn/wiki/virtual-vargant-centos-%E5%AE%89%E8%A3%85
 ) 
-
   * [Linux Elasticsearch 安装(Centos6.X)](https://github.com/yueheng-li/linuxLearn/wiki/Linux-Elasticsearch-%E5%AE%89%E8%A3%85(Centos6.X))
   * [Linux jdk 安装](https://github.com/yueheng-li/linuxLearn/wiki/Linux-jdk-%E5%AE%89%E8%A3%85)
   * [linux maven 安装](https://github.com/yueheng-li/linuxLearn/wiki/linux-maven-%E5%AE%89%E8%A3%85)
