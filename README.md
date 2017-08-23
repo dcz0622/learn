@@ -33,7 +33,7 @@
   * [docker mysql环境做成](https://github.com/yueheng-li/learn/wiki/docker-mysql%E7%8E%AF%E5%A2%83%E5%81%9A%E6%88%90)
   * [Docker手动构建nginx image](https://github.com/yueheng-li/dockerlearn/wiki/Docker%E6%89%8B%E5%8A%A8%E6%9E%84%E5%BB%BAnginx-image)
   * [使用Dockerfile构建Nginx](https://github.com/yueheng-li/dockerlearn/wiki/%E4%BD%BF%E7%94%A8Dockerfile%E6%9E%84%E5%BB%BANginx)
-  * [docker 搭建redis集群(TODO)](https://github.com/yueheng-li/learn/wiki/docker-%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4)
+  * [docker 搭建redis集群](https://github.com/yueheng-li/learn/wiki/docker-%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4)
   * [docker 搭建mysql主从](https://github.com/yueheng-li/learn/wiki/docker-%E6%90%AD%E5%BB%BAmysql%E4%B8%BB%E4%BB%8E)
   * [docker 搭建mysql集群(TODO)](https://github.com/yueheng-li/learn/wiki/docker-%E6%90%AD%E5%BB%BAmysql%E9%9B%86%E7%BE%A4)
 
