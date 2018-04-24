@@ -53,6 +53,7 @@
   * [Scala TODO](#)
   * [groovy TODO](#)
   * [代码行数的统计](https://github.com/yueheng-li/learn/wiki/%E4%BB%A3%E7%A0%81%E8%A1%8C%E6%95%B0%E7%BB%9F%E8%AE%A1)
+  * [Maven 那点事儿](https://github.com/yueheng-li/learn/wiki/Maven-%E9%82%A3%E7%82%B9%E4%BA%8B%E5%84%BF)
   
   
   
